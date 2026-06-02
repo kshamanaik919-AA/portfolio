@@ -113,7 +113,7 @@ portfolio/
 
 ## Author
 
-**XYZ**
+**Anusha Naik**
 
 MCA Student
 
